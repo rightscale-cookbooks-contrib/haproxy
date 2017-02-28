@@ -2,7 +2,11 @@
 
 This file is used to list changes made in each version of the haproxy cookbook. (@sun77)
 
-## v3.0.1 (tbc)
+## v3.0.2 (tbc)
+
+- Allow server startup from `app_lb` recipe. [#171][]
+
+## v3.0.1 (2017-1-30)
 
 - Reload haproxy configuration on changes [#152][]
 - merging in generic socket conf [#107][]
